@@ -1,15 +1,15 @@
 # Git-And-GitHub
-This is the task Repository for Freshers- 2021
+**Welcome!!** Freshers- 2021.
 
 ## Importance of Git
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. <br>
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 
 ### What is Version Control System (VCS)?
 
-Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done to the code. 
+Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done to the code.
 
 ### Advantages of VCS
 

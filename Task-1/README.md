@@ -25,3 +25,5 @@ As you commit changes to your project locally, you can push those changes to Git
 #### (f) Give Pull requests to a GitHub repository
 
 When you’re ready for feedback, submit a pull request. Pull requests are a feature specific to GitHub. They provide a simple, web-based way to submit your work (often called “patches”) to a project. It’s called a pull request because you’re asking the project to pull changes from your fork.
+
+##### Click [here](./Task-Instructions.md) to view task.
