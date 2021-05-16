@@ -13,16 +13,17 @@ Version control systems are a category of software tools that helps in recording
 
 ### Advantages of VCS
 
-a) Enhances the project development speed by providing efficient collaboration,
+a) Enhances the project development speed by providing efficient collaboration.
 
-b) Leverages the productivity, expedite product delivery, and skills of the employees through better communication and assistance,
+b) Leverages the productivity, expedite product delivery, and skills of the employees through better communication and assistance.
 
-c) Reduce possibilities of errors and conflicts meanwhile project development through traceability to every small change,
+c) Reduce possibilities of errors and conflicts meanwhile project development through traceability to every small change.
 
-d) Employees or contributor of the project can contribute from anywhere irrespective of the different geographical locations through this VCS,
-e) For each different contributor of the project a different working copy is maintained and not merged to the main file unless the working copy is validated. A most popular example is Git, Helix core, Microsoft TFS,
+d) Employees or contributor of the project can contribute from anywhere irrespective of the different geographical locations through this VCS.
 
-f) Helps in recovery in case of any disaster or contingent situation,
+e) For each different contributor of the project a different working copy is maintained and not merged to the main file unless the working copy is validated. A most popular example is Git, Helix core, Microsoft TFS.
+
+f) Helps in recovery in case of any disaster or contingent situation.
 
 g) Informs us about Who, What, When, Why changes have been made.
 
